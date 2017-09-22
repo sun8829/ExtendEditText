@@ -1,4 +1,4 @@
-package com.ppdai.extendedittext;
+package com.huaye.extendedittext;
 
 import org.junit.Test;
 

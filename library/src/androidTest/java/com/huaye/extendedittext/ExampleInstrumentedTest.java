@@ -1,4 +1,4 @@
-package com.ppdai.extendedittext;
+package com.huaye.extendedittext;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
