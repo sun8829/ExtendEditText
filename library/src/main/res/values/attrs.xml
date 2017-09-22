@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExtendEditText">
+        <attr name="extend_icon_clear" format="integer"/>
+        <attr name="extend_icon_ok" format="integer"/>
+        <attr name="extend_regex" format="string"/>
+    </declare-styleable>
+</resources>
